@@ -1,0 +1,8 @@
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\obj\Debug\RecommendingSystemSolutionTests.csprojResolveAssemblyReference.cache
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\bin\Debug\RecommendingSystemSolutionTests.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\bin\Debug\RecommendingSystemSolutionTests.pdb
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\bin\Debug\RocommendingSystemSolution.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\bin\Debug\RocommendingSystemSolution.pdb
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\obj\Debug\RecommendingSystemSolutionTests.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RecommendingSystemSolutionTests\obj\Debug\RecommendingSystemSolutionTests.pdb
