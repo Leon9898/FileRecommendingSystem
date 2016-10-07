@@ -1,0 +1,6 @@
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RocommendingSystemSolution\obj\Debug\RecommendingSystemSolution.csprojResolveAssemblyReference.cache
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RocommendingSystemSolution\bin\Debug\RocommendingSystemSolution.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RocommendingSystemSolution\bin\Debug\RocommendingSystemSolution.pdb
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RocommendingSystemSolution\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RocommendingSystemSolution\obj\Debug\RocommendingSystemSolution.dll
+C:\Users\Leonidka\documents\visual studio 2013\Projects\FilmRocommendingSystem\RocommendingSystemSolution\obj\Debug\RocommendingSystemSolution.pdb
