@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecommendingSystemSolution", "RocommendingSystemSolution\RecommendingSystemSolution.csproj", "{81DC8B11-B321-434C-809D-F059E2AE3D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecommendingSystemSolutionTests", "RecommendingSystemSolutionTests\RecommendingSystemSolutionTests.csproj", "{5E49A630-11E3-4291-8E31-99545A35317E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81DC8B11-B321-434C-809D-F059E2AE3D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DC8B11-B321-434C-809D-F059E2AE3D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DC8B11-B321-434C-809D-F059E2AE3D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DC8B11-B321-434C-809D-F059E2AE3D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E49A630-11E3-4291-8E31-99545A35317E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E49A630-11E3-4291-8E31-99545A35317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E49A630-11E3-4291-8E31-99545A35317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E49A630-11E3-4291-8E31-99545A35317E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
